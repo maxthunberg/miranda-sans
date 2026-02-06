@@ -3,7 +3,7 @@ sources:
   - MirandaSans-Italic.glyphs
 axisOrder:
   - wght
-
+cleanUp: true
 stat:
   MirandaSans[wght].ttf:
     - name: Weight
